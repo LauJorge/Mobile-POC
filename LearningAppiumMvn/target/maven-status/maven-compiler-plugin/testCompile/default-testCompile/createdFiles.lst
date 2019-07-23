@@ -1,0 +1,6 @@
+resources/BaseSetup.class
+tests/HomeTest1.class
+tests/HomeTest.class
+pages/HomePage.class
+pages/BasePage.class
+pages/MobilePageObject.class
